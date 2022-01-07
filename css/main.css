@@ -238,14 +238,14 @@ footer div ul li a{
     .header{
         background-color: #ffffff ;
     }
-    .move-container-all{
+   /* .move-container-all{
         transform: translatex( 300px) !important;
     }
 
     .container-all{
         transition: all 300ms !important;
     }
-    
+    */
     .menu{
         height: calc(100% - 80px);
         position: fixed;
